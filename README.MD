@@ -35,7 +35,7 @@ This project is a turn-based, chess-inspired game implemented using Node.js and 
 
    ```bash
    git clone https://github.com/Aakash-777/Aakash_21BAI10442_Hitwicket.git
-   cd turn-based-chess-like-game
+   cd Aakash_21BAI10442_Hitwicket
 
 2. **Install the dependencies:**
 
@@ -45,7 +45,8 @@ This project is a turn-based, chess-inspired game implemented using Node.js and 
 3. **Start the server:**
 
     ```bash
-    node swebsocketServer.js
+    cd server
+    node websocketServer.js
 
 The server will start and listen on ws://localhost:8080.
 
