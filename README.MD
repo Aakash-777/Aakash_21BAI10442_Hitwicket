@@ -58,9 +58,9 @@ Open index.html in two different browser windows or tabs to simulate two players
 ![alt text](<WhatsApp Image 2024-08-27 at 11.15.06_0dac85ea.jpg>)
 ![alt text](<WhatsApp Image 2024-08-27 at 11.13.10_97a522ea.jpg>) -->
 <div style="display: flex; justify-content: space-around;">
-<img src="img1.jpg" alt="alt text" width="275"/>
-<img src="img2.jpg" alt="alt text" width="275"/>
-<img src="img3.jpg" alt="alt text" width="275"/>
+<img src="img1.jpg" alt="alt text" width="255"/>
+<img src="img2.jpg" alt="alt text" width="255"/>
+<img src="img3.jpg" alt="alt text" width="255"/>
 </div>
 
 
