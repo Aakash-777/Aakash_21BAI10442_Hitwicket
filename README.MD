@@ -54,7 +54,9 @@ The server will start and listen on ws://localhost:8080.
 
 Open index.html in two different browser windows or tabs to simulate two players. You can also connect from different devices on the same network by navigating to http://<your-ip>:8080.
 
-
+![alt text](<WhatsApp Image 2024-08-27 at 11.10.55_5e03997e.jpg>)
+![alt text](<WhatsApp Image 2024-08-27 at 11.15.06_0dac85ea.jpg>)
+![alt text](<WhatsApp Image 2024-08-27 at 11.13.10_97a522ea.jpg>)
 
 ## How to Play
 ### Player Selection:
