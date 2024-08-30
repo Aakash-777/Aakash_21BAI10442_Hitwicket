@@ -40,9 +40,10 @@ ws.onmessage = (message) => {
           break;
 
     case 'gameOver': // <-- Handle game over
-          document.getElementById("player_id").textContent=`Player ${player} wins !`;
+          document.getElementById("player_id").textContent=`Player ${data.data} wins !`;
           document.getElementById("player_id").style.color="#34A853";
-          alert(`Game over! Player ${data.winner} wins!`);
+        //   alert(`Game over! Player ${data.winner} wins!`);
+          alert(`Game over! Player ${data.data} wins!`);
 
            // Close the WebSocket connection
           break;

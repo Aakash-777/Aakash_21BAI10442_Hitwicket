@@ -96,7 +96,7 @@ function broadcastGameOver(winner) {
         if (client.readyState === WebSocket.OPEN) {
             client.send(JSON.stringify({
                 type: 'gameOver',
-                winner
+                data: winner
             }));
         }
     });
