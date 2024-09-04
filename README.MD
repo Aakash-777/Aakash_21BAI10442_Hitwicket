@@ -55,9 +55,9 @@ The server will start and listen on ws://localhost:8080.
 Open index.html in two different browser windows or tabs to simulate two players. You can also connect from different devices on the same network by navigating to http://<your-ip>:8080.
 
 <div style="display: flex; justify-content: space-around;">
-<img src="img1.jpg" alt="alt text" width="255"/>
-<img src="img2.jpg" alt="alt text" width="255"/>
-<img src="img3.jpg" alt="alt text" width="255"/>
+<img src="img1.jpg" alt="alt text" width="600"/>
+<img src="img2.jpg" alt="alt text" width="600"/>
+<img src="img3.jpg" alt="alt text" width="600"/>
 </div>
 
 Demo Video: https://drive.google.com/file/d/1-63DjXEiYULGBL6ZaLL9z2GhzwlHdGU0/view?usp=sharing
